@@ -1,0 +1,5 @@
+*.Zip
+*.LOG
+__Previews/*
+tBike/__Previews/*
+tBike/tBike.PrjPcbStructure
